@@ -52,6 +52,7 @@
     "Python.streamingFileDownload.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -174,7 +175,8 @@
       <option name="presentableId" value="Default" />
       <updated>1778773158456</updated>
       <workItem from="1778773160114" duration="2832000" />
-      <workItem from="1778823773168" duration="7492000" />
+      <workItem from="1778823773168" duration="8108000" />
+      <workItem from="1778848791523" duration="1647000" />
     </task>
     <servers />
   </component>
@@ -191,7 +193,7 @@
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$02_quickStart.coverage" NAME="02_quickStart Coverage Results" MODIFIED="1778825336490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$05_otherRequests.coverage" NAME="05_otherRequests Coverage Results" MODIFIED="1778827184545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$streamingFileDownload.coverage" NAME="streamingFileDownload Coverage Results" MODIFIED="1778829634630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
-    <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$10_WebScraping.coverage" NAME="10_WebScraping Coverage Results" MODIFIED="1778832648035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
+    <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$10_WebScraping.coverage" NAME="10_WebScraping Coverage Results" MODIFIED="1778832670613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$one.coverage" NAME="one Coverage Results" MODIFIED="1778774476348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$07_downloading_file.coverage" NAME="07_downloading_file Coverage Results" MODIFIED="1778828605159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
   </component>
