@@ -3,7 +3,7 @@ import requests
 url = "https://www.win-rar.com/fileadmin/winrar-versions/winrar-x64-722ar.exe"
 
 r = requests.get(url)
-totalExpectedBytes = r.headers[('Content-Length')]
+totalExpectedBytes = r.headers[('Contentx`-Length')]
 print("total content length : ", totalExpectedBytes)
 
 bytesRecieved = 0

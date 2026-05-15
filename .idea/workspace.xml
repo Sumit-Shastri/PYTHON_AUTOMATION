@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23ee60f6-44da-4331-ae60-7ab9e84cd4d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RequestLibrary/08_streamingFileDownload.py" beforeDir="false" afterPath="$PROJECT_DIR$/RequestLibrary/08_streamingFileDownload.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "Python.getRequestWithParam.executor": "Run",
     "Python.main.executor": "Run",
     "Python.one.executor": "Run",
+    "Python.streamingFileDownload.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -68,7 +70,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.08_streamingFileDownload">
+  <component name="RunManager" selected="Python.09_DataCollection">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PYTHON_AUTOMATION/RequestLibrary/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -122,8 +124,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="09_DataCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_AUTOMATION" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RequestLibrary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RequestLibrary/09_DataCollection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.09_DataCollection" />
         <item itemvalue="Python.08_streamingFileDownload" />
         <item itemvalue="Python.07_downloading_file" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -145,7 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778773158456</updated>
       <workItem from="1778773160114" duration="2832000" />
-      <workItem from="1778823773168" duration="5744000" />
+      <workItem from="1778823773168" duration="6667000" />
     </task>
     <servers />
   </component>
@@ -156,6 +184,7 @@
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$02_quickStart.coverage" NAME="02_quickStart Coverage Results" MODIFIED="1778825336490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$getRequestWithParam.coverage" NAME="getRequestWithParam Coverage Results" MODIFIED="1778825764717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$05_otherRequests.coverage" NAME="05_otherRequests Coverage Results" MODIFIED="1778827184545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
+    <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$streamingFileDownload.coverage" NAME="streamingFileDownload Coverage Results" MODIFIED="1778829634630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$04_postRequest.coverage" NAME="04_postRequest Coverage Results" MODIFIED="1778826596514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$06_downloading_images.coverage" NAME="06_downloading_images Coverage Results" MODIFIED="1778827936854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$main.coverage" NAME="main Coverage Results" MODIFIED="1778774401763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
