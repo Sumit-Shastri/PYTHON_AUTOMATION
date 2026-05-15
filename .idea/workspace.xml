@@ -40,6 +40,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01_getRequest.executor": "Run",
     "Python.02_quickStart.executor": "Run",
+    "Python.getRequestWithParam.executor": "Run",
     "Python.main.executor": "Run",
     "Python.one.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778773158456</updated>
       <workItem from="1778773160114" duration="2832000" />
-      <workItem from="1778823773168" duration="1561000" />
+      <workItem from="1778823773168" duration="2314000" />
     </task>
     <servers />
   </component>
@@ -96,7 +97,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$02_quickStart.coverage" NAME="02_quickStart Coverage Results" MODIFIED="1778825211874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
+    <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$02_quickStart.coverage" NAME="02_quickStart Coverage Results" MODIFIED="1778825336490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
+    <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$getRequestWithParam.coverage" NAME="getRequestWithParam Coverage Results" MODIFIED="1778825764717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$main.coverage" NAME="main Coverage Results" MODIFIED="1778774401763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$one.coverage" NAME="one Coverage Results" MODIFIED="1778774476348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_AUTOMATION$01_getRequest.coverage" NAME="01_getRequest Coverage Results" MODIFIED="1778824818683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestLibrary" />
