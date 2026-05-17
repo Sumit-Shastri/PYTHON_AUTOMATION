@@ -79,7 +79,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PYTHON_AUTOMATION/RequestLibrary/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -184,7 +184,7 @@
       <workItem from="1778773160114" duration="2832000" />
       <workItem from="1778823773168" duration="8108000" />
       <workItem from="1778848791523" duration="3099000" />
-      <workItem from="1779042670654" duration="2898000" />
+      <workItem from="1779042670654" duration="3022000" />
     </task>
     <servers />
   </component>
